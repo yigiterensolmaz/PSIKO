@@ -1,0 +1,123 @@
+.nisan {
+    background-color: yellow;
+}
+
+
+.hak {
+    background-color: white;
+    height: 174px;
+    width: 417px;
+} 
+
+.çiçek {
+    background-color: white;
+}
+
+.papatya {
+    background-color: white;
+}
+
+.böcek {
+    background-color: white;
+}
+
+.gogo {
+    display: flex;
+}
+
+.container-2 {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.abc .erdem img {
+    width: 400px;
+    height: 284px;
+}
+
+.erdem {
+    background-color: white;
+}
+
+.abc {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.melek {
+    background-color: white;
+}
+
+.abc .melek img {
+    width: 400px;
+    height: 284px;
+    
+}
+
+.görür {
+    width: 400px;
+}
+
+
+.deniz {
+    background-color: white;
+    width: 1000px;
+
+}
+
+
+.container {
+     background-color: white;
+     width: 600px;
+     height: 300px;
+}
+
+.mine {
+    background-color: red;
+}
+
+ul {
+    list-style-type: none;
+
+    margin: 0;
+    margin-left: 130px;
+    margin-top: -80px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3aabb9;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #f39c12;
+}
+
+.lolo {
+  height:110px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.foto {
+    width: 50%;
+    height: 100%;
+}
